@@ -1,0 +1,224 @@
+===================================================================================================
+===================================================================================================
+
+Personal Information
+
+
+Name		:		Srinivas Kowtal
+
+Address		:		255, 2nd Floor, 15th D Cross
+					2nd Stage, 2nd Phase
+					MHBCS Layout, Mahalakshmi Puram
+					Bangalore, Karnataka, India 560 086 
+
+Phone {primary}   : +91-9845553190
+Phone {secondary} : +91-9000012854
+
+Email: srinivaskay@gmail.com
+
+===================================================================================================
+
+Summary of Qualification
+
+	*	13 years experience in developing multi-core software frameworks on various hardware 
+		platforms of Texas Instruments. 
+	*	Deep experience in designing and deploying complex software architectures on performance 
+		constrained mobile platforms. 
+	*	Extensive experience on android multimedia framework, OpenMAX, camera framework, video codecs,
+		and inter-processor communication. 
+	*	Lead teams in achieving technical excellence under significant time pressures and exceeding 
+		customer expectations.
+		
+===================================================================================================
+
+Education
+
+Bachelor of Engineering. Bangalore University, 2000.
+Major: Computer Science and Engineering.
+Honours: First with distinction
+
+Pre-University Education, Karnataka State Pre-University Board, 1996.
+Major:  Science (Physics, Chemistry, Maths, Biology)
+Honours: 16th rank out of more than 200,000 students
+
+===================================================================================================
+
+Employment history
+
+1.	Qualcomm India Pvt Ltd, Hyderabad.
+		Duration :	Feb 2013 -- Dec 2013
+		Role	 :	Sr. Staff Engineer.
+
+2.	Texas Instruments India Pvt Ltd, Bangalore.
+		Duration :	Jun 2004 -- Jan 2013
+		Role	 : 	Principal Engineer, Technical Project Lead, Component Lead
+
+3.	Sasken Communication Technologies Ltd, Bangalore.
+		Duration :	Sep 2000 -- Jun 2004
+		Role	 : 	Software Engineer
+		
+===================================================================================================
+
+Technical Expertise
+
+Languages	:	C, Python, C++
+OS			:	Android, Linux
+Multimedia	:	MPEG4, H.264, OpenMAX IL
+Android		:	StageFright, CameraHAL, HW Composer HAL
+Software	:	Git, Code Composer Studio
+HW			:	OMAP2x/3x/4x
+	 
+===================================================================================================
+===================================================================================================
+	 
+Work Experience 
+
+
+1.	User Experience on QCom Snapdragon 400/600 platforms
+	----------------------------------------------------
+
+	Duration	:	Feb13-Dec13
+    At			:	Qualcomm
+	Role		:	Senior Staff Engineer
+	
+	*	Responsible for User Experience Optimization
+	*	Improved performance on various use cases like game play, touch, fling, and launch latencies
+	*	I was awarded ``QualStar'' award for contributions to the LGE V510 Tablet project
+	
+	
+2.	Smart-phone for TCL China (S900)
+	--------------------------------
+	
+    Duration	:	Jan12-Dec12
+    At			:	Texas Instruments
+	Role		:	Principal Engineer
+	
+	*	Lead a team of 6 engineers and achieved the fastest deployment of Android phone by a first
+		time customer on TI's OMAP4 platform
+	*	Responsible for production qualification of multimedia usecases
+	*	Contributed to Camera sensor selection and integration
+	*	Responsible for software architecture and requirement specification for the follow up phone
+		on next generation OMAP platform
+		
+	
+2.	Android based video surveillance for HikVision on OMAP4x
+	--------------------------------------------------------
+	
+	Duration	:	Apr12-Dec12
+    At			:	Texas Instruments
+	Role		:	Principal Engineer
+	
+	*	Responsible for bringing around the customer on the feasibility of OMAP platform for video
+		surveillance applications
+	*	Responsible for the product from requirements, software architecture definition, development,
+		to final product qualification
+	*	Develop multi-camera multi-channel video encode and audio record
+	
+	
+3.	Google-Samsung Galaxy Nexus ICS on OMAP4x
+	-----------------------------------------
+	
+	Duration	:	Apr11-Nov11
+    At			:	Texas Instruments
+	Role		:	Lead Engineer, Multimedia
+	
+	*	Lead a team of 5 engineers		
+	*	Recognized by both TI and Google for integrating the multimedia subsystem in a significantly
+		redesigned Android platform under severe time constraint and achieving the highest quality
+		standard
+	*	Re-architecture of IPC
+	*	Memory architecture optimization
+	
+
+4.	Multimedia framework on OMAP4x platform
+	----------------------------------------
+	
+	Duration	:	Feb08-Apr11
+    At			:	Texas Instruments
+	Role		:	Technical Project Lead
+	
+	*	Lead a team of 12 engineers
+	*	Designed the Distributed OpenMAX Multimedia framework
+	*	Developed a common video decoder architecture which significantly reduced the time required
+		for adding a new video decoder in the system
+	*	Integration of the Distributed MM architecture in Android framework
+	*	Designed and implemented the Ducati (OMAP4x's MM Subsystem) error recovery framework
+	*	Stakeholder in the design of Inter-Processor Communication software
+	*	Design and implementation of resource manager
+	*	Contributed to the design and implementation of the Camera-Imaging Framework
+	*	Integration of camera sensors
+	
+	
+5.	Multimedia framework on OMAP103x based feature phones
+	-----------------------------------------------------
+	
+	Duration	:	Feb06-Feb08
+    At			:	Texas Instruments
+	Role		:	Technical Project Lead
+	
+	*	Lead a team 6 engineers
+	*	Proposed and designed a unique OpenMAX implementation which drastically cut down development,
+		testing, conformance, and maintenance effort from 4 months to 1 month for each component.
+	*	Responsible for design, development, integration, and testing of OpenMAX components for all
+		video and imaging codecs.
+	*	Design and development of Screen Services Layer, an efficient tiling window manager for
+		deployment on feature phones.
+		
+	
+6.	DSP multimedia framework on OMAP2430/3430
+	-----------------------------------------
+	
+	Duration	:	Jun04-Jan06
+    At			:	Texas Instruments
+	Role		:	Component Lead
+	
+	*	Lead a team of 4 engineers
+	*	Contributed to the design and lead the development of a unified socket node architecture which
+		cut down the development and maintenance effort for socket nodes from 3 months to 1 month. 
+	*	Designed and implemented the XDAIS/XDM interface for the video codecs
+	*	Demonstrated all multimedia uses cases with in two weeks of the OMAP2430 silicon becoming available.
+	
+	
+7.	MPEG4/H.264 Video Codec on OMAP15xx
+	-----------------------------------
+	
+	Duration	:	Aug01-Jun04
+    At			:	Sasken
+	Role		:	Software Engineer
+	
+	*	Designed and implemented optimized algorithms for motion estimation, motion compensation, vlc,
+		and rate control.
+	*	Proposed and led the development of purely C version of the codec running on Windows platform
+		which was bit exact with the production C55x version of the codec. This significantly cut down
+		the effort needed in solving innumerable defects.
+
+		
+8.	MPEG-7 Content Based Multimedia Retrieval
+	-----------------------------------------
+	
+	Duration	:	Sep00-Aug01
+    At			:	Sasken
+	Role		:	Software Engineer
+	
+	*	Implemented Eigen face based face recognition system
+	*	Implemented a contour-shape based image retrieval system
+	
+===================================================================================================
+
+Honours
+
+1.	At Qualcomm, I have been given ``QualStar'' award for contributions to the 
+	LGE V510 Tablet project
+
+2.	Texas Instruments awards ``Diamond Awards'' to individuals or teams for showcasing exemplary
+	performance towards achieving organizational goals. Specifically:
+
+	*	Contribution that is above and beyond the call of duty
+	*	Contribution with customer and/or business impact
+	*	Consistent, exceptional performance for 2 or more quarters in a row
+	
+	I have been honoured with two diamond awards in my tenure at TI.
+	
+===================================================================================================
+===================================================================================================
+		
