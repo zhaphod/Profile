@@ -1,16 +1,21 @@
-﻿# Profiles
+﻿██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗███████╗
+██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝██╔════╝
+██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  ███████╗
+██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  ╚════██║
+██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗███████║
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝
+
 
 This repository maintains various different formats of my curriculum vitae.
 
-1. cv_ksini.txt 	: This has the ascii format of the CV
-2. cv_ksrini.tex	: This has the Latex format of the CV
-3. cv_ksrini.doc	:	This has the .doc format of the CV
-4. cv_ksrini.pdf	:	This is the pdf fromat of the CV generated from the
-										.tex file
-		
-		
+1. cv_ksini.txt     : This has the ascii format of the CV
+2. cv_ksrini.tex    : This has the Latex format of the CV
+3. cv_ksrini.doc    : This has the doc format of the CV
+4. cv_ksrini.pdf    : This is the pdf fromat of the CV generated from the
+                      tex file
+        
+        
 Below you can find the text format of the CV as found in cv_ksrini.txt
----
 
 =============================================================================
 =============================================================================
